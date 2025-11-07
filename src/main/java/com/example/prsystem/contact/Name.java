@@ -19,7 +19,7 @@ public class Name implements Serializable {
         this.lastName = lastName;
     }
 
-    // getters and setters
+
     public String getSalutation() { return salutation; }
     public void setSalutation(String salutation) { this.salutation = salutation; }
 
